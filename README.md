@@ -3,7 +3,8 @@
 A simple and elegant Android To-Do List application to manage your daily tasks with due dates, times, and completion tracking.
 
 ## 📸 Preview
-![App Screenshot](./Screenshot%202025-08-10%20140956.png)
+![App Screenshot](<img width="528" height="907" alt="Screenshot 2025-08-10 140956" src="https://github.com/user-attachments/assets/9e6ca878-a91f-4ea3-bad4-4ca20e753a02" />
+)
 
 ## ✨ Features
 
